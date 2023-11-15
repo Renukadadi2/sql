@@ -1,0 +1,2 @@
+SELECT DISTINCT person_address, city
+FROM persons;
