@@ -1,0 +1,3 @@
+UPDATE persons
+SET firstname = 'duppala', lastname= 'gothami',city='vizag'
+WHERE person_id = 1;
