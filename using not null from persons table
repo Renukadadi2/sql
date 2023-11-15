@@ -1,0 +1,3 @@
+SELECT lastName, firstName, person_address
+FROM persons
+WHERE person_address IS NOT NULL;
