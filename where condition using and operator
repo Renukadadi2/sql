@@ -1,0 +1,3 @@
+SELECT *
+FROM persons
+WHERE City = 'vizag' AND lastName LIKE 'a%';
