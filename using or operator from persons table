@@ -1,0 +1,3 @@
+SELECT *
+FROM persons
+WHERE City = 'vizag' OR person_address = 'anakapali';
