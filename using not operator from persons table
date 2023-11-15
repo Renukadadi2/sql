@@ -1,0 +1,2 @@
+SELECT * FROM persons
+WHERE NOT City = 'nad';
