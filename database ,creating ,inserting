@@ -1,0 +1,9 @@
+use expenses;
+create table persons(person_id int,firstname varchar(20),lastname varchar(20),person_address varchar(100),city varchar(100));
+select *from persons;
+insert into persons values(1,'dadi','renu','ambherpuram','vizag');
+insert into persons values(2,'dodi','kiran','gopalapatanam','andhrapradesh');
+insert into persons values(3,'surisetti','venu','anakapali','vishakapatnam');
+insert into persons values(4,'saragadham','raju','chodhavaram','nad');
+insert into persons values(5,'duri','rani','vizag','srikakulam');
+insert into persons values(6,'chepripali','munni','kancharapalam','godavari');
