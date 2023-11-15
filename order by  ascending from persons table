@@ -1,0 +1,3 @@
+SELECT firstname,lastname
+FROM persons
+ORDER BY firstname,lastname asc;
