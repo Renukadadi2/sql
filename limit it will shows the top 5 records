@@ -1,0 +1,3 @@
+select *from persons;
+SELECT * FROM persons
+LIMIT 5;
